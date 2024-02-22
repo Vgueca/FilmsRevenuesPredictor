@@ -23,3 +23,7 @@ The project is implemented using Python in Jupyter Notebooks. We rely on the fol
 ## Conclusion
 
 After extensive experimentation and evaluation, the Random Forest Regressor emerges as the most suitable model for revenue prediction. Its ability to handle complex relationships between features and robust performance across different scenarios make it the preferred choice for accurate revenue estimations in this context.
+
+## Contact
+
+For any input, new idea, or feedback please feel free to send an email to [jvgueca@gmail.com](mailto:jvgueca@gmail.com) or to [nachocuevas.cuevas@gmail.com](mailto:nachocuevas.cuevas@gmail.com).
